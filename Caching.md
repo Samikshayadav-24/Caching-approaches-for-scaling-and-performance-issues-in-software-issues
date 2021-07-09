@@ -45,7 +45,7 @@ Caching is a mechanism to enhance the performance of a system. It is a temporary
 
 Caching is a technique to speed up data lookups (data reading). Instead of reading the data directly from its source, which could be a database or another remote system, the data is read directly from a cache on the computer that needs the data. Here is an illustration of the caching principle:
 
-![Caching](caching.png)
+![caching](https://user-images.githubusercontent.com/66433177/125092881-661e4f00-e0ef-11eb-8c12-656fd4876adb.png)
 
 Caching could be used by different development frameworks, We will be using Spring-Boot to demonstrate caching.  
 
