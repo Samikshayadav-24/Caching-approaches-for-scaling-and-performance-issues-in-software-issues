@@ -2,12 +2,16 @@
 
 #### Performance scalability :
  a. Scaling on a system by simply by adding more memory, faster CPU, faster disk, etc (very limited scalability).
+ 
  b.  Scaling by adding multiple CPUs or cores (requires multi-threaded application).
+ 
  c. Scaling by adding more machines in a network possibly on a load balancer (this is infinite scalability).
 
 #### Functional scalability :
  This kind of scalability allows you to add more capabilities easily.
+ 
  a. Functional scaling due to information hiding (requires object oriented design).
+ 
  b. Scaling through meta programming, (requires highly normalized schema and/or meta code that can be configured in different ways).
 
 #### Deployment scalability :
