@@ -1,24 +1,20 @@
 ## DIFFERENT TYPES OF SCALABILITY :
 
 #### Performance scalability :
- a. Scaling on a system by simply by adding more memory, faster CPU, faster disk, etc (very limited scalability).
- 
- b.  Scaling by adding multiple CPUs or cores (requires multi-threaded application).
- 
- c. Scaling by adding more machines in a network possibly on a load balancer (this is infinite scalability).
+ - Scaling on a system by simply by adding more memory, faster CPU, faster disk, etc (very limited scalability).
+ - Scaling by adding multiple CPUs or cores (requires multi-threaded application).
+ - Scaling by adding more machines in a network possibly on a load balancer (this is infinite scalability).
 
 #### Functional scalability :
- This kind of scalability allows you to add more capabilities easily.
- 
- a. Functional scaling due to information hiding (requires object oriented design).
- 
- b. Scaling through meta programming, (requires highly normalized schema and/or meta code that can be configured in different ways).
+   This kind of scalability allows you to add more capabilities easily.
+ - Functional scaling due to information hiding (requires object oriented design).
+ - Scaling through meta programming, (requires highly normalized schema and/or meta code that can be configured in different ways).
 
 #### Deployment scalability :
-  If you want to add more machines in a network possibly on a load balance, deployment scalability creates a well architected deployment design.
+   If you want to add more machines in a network possibly on a load balance, deployment scalability creates a well architected deployment design.
 
 #### Programming scalability :
-This allows large numbers of programmers to work together on a single application. This requires good software engineering practices and good engineering management.
+   This allows large numbers of programmers to work together on a single application. This requires good software engineering practices and good engineering management.
 
 
 ## 1. What is caching ?
